@@ -2,6 +2,8 @@
 
 A tiny CLI that finds function declarations in a JavaScript file using regex.
 
+> ⚠️ **Learning project.** This was my first solo CLI, built to understand why regex fails at code parsing. It works, and it has known limitations. For the real version — a Tree-sitter–based code intelligence engine, **currently in active development** — see [voltroniq-arch](https://github.com/voltroniq/voltroniq-arch).
+
 ## Usage
 
     npm install
