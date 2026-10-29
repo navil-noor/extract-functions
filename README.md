@@ -26,7 +26,7 @@ This uses a regex, not a parser. It has no idea what's inside a string or a comm
 
 It also misses arrow functions and class methods, because they don't start with the keyword `function`.
 
-This is the reason real code-analysis tools use a parser (Tree-sitter) instead of regex. See [the next version](link to come later) for that.
+This is the reason real code-analysis tools use a parser (Tree-sitter) instead of regex.
 
 ## Built with
 
